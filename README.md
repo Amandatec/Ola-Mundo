@@ -58,3 +58,11 @@ __*misturar*__
 - [ ] curso dio  Everis
 - [ ] Finalizar projeto programaria
 
+#Criando Tabelas
+
+Num | Nome | Nota
+---|---|---|
+1 | Amanda | 8.5
+2 | Carlos | 5.5
+3 | Allan | 8
+4 |Felipe | 10
